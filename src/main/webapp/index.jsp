@@ -429,11 +429,13 @@ Live Application
 
         <p><strong>Name:</strong> Veerendra Nayari</p>
 
-        <p><strong>Role:</strong> DevOps Engineer</p>
+        <p><strong>Role:</strong> DevOps Intern</p>
+
+        <p><strong>Organization:</strong> JSpiders Rajajinagar</p>
 
         <p><strong>Project:</strong> End-to-End Java Web Application CI/CD Pipeline</p>
 
-        <p><strong>Deployment URL:</strong> http://EC2-Public-IP:8082/app-name</p>
+        <p><strong>Deployment URL:</strong> http://3.109.211.155:8082/app-name</p>
 
     </div>
 
