@@ -435,7 +435,7 @@ Live Application
 
         <p><strong>Project:</strong> End-to-End Java Web Application CI/CD Pipeline</p>
 
-        <p><strong>Deployment URL:</strong> http://3.109.211.155:8082/app-name</p>
+        <p><strong>Deployment URL:</strong> http://3.109.211.155:8082/java-webapp</p>
 
     </div>
 
