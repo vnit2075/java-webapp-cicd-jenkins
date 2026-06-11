@@ -115,27 +115,9 @@ pipeline {
 
 ---
 
-### Jenkins Dashboard
-
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
-
----
-
 ### Successful Build
 
 ![Build Success](screenshots/jenkins-build-success.png)
-
----
-
-### Pipeline Stage View
-
-![Pipeline](screenshots/pipeline-stage-view.png)
-
----
-
-### Tomcat Deployment
-
-![Tomcat Deployment](screenshots/tomcat-deployment.png)
 
 ---
 
